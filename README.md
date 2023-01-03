@@ -2,7 +2,7 @@
 
 I am losici, a biomedical/software engineer with a strong passion for embedded systems.
 
-- 🔭 I’m currently working on my advent of Code 2021 in Python (I'm late, I know!)
+- 🔭 I’m currently working on my advent of Code 2022 in Python (I'm late, I know!)
 - 🌱 I’m currently learning nRF52840 with Zephyr RTOS and Data Structures & Algorithms
 - 👯 I’m looking to collaborate for innovative projects
 - 🤔 I’m looking for help with DSA
